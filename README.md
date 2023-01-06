@@ -1,2 +1,1 @@
-# k8s
-github page for k8s.bosornd.com
+# github page for k8s.bosornd.com
