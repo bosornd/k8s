@@ -113,3 +113,9 @@ INC 요청도 처리할 것입니다.
 * 규모가 작으면 설계의 좋고 나쁨이 중요하게 느껴지지 않습니다.
   - 규모가 작건 크건, 설계 원칙, 과정 및 방법론은 유사합니다.
   - 작은 과제에서 연습하고 익혀야 아키텍트가 되는 것입니다.
+
+<figure>
+  <a href="https://inf.run/1zjZ">
+  <img src="/assets/images/k8s-beyond/kub101-ad.png" style="background-color:#43487C"
+     alt="인프런 - 쿠버네티스 101 - 클라우드/서버 개발 첫걸음"></a>
+</figure>
