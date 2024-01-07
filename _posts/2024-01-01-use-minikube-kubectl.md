@@ -39,7 +39,7 @@ minikube 로컬 클러스터를 사용하는 경우에는 minikube에서 제공�
   <img src="/assets/images/minikube-kubectl/minikube - kubectl.png" alt="minikube의 kubectl 버전"></a>
 </figure>
 
-minikube kubectl -- 뒤에, kubectl 명령을 제공하면 됩니다. -- 뒤에 반드시 공백이 필요합니다. <BR>
+minikube kubectl \-- 뒤에, kubectl 명령을 제공하면 됩니다. \-- 뒤에 반드시 공백이 필요합니다. <BR>
 
 그런데, 매번 kubectl 명령을 입력할 때마다, minikube kubectl을 입력하는 것은 번거로운 일입니다.
 alias로 설정해서 사용하면 되는데, Windows 환경에서는 다음과 같이 설정합니다.
